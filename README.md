@@ -16,7 +16,6 @@ I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, 
 Data science & data visualization projects as well fun side projects.
 Some examples to give you an idea: 
 
-
 <div align="center">
   <a href="https://github.com/laurazecca01/traffic-accidents-analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=traffic-accidents-analysis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true" width="400" />
