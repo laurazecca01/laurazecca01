@@ -16,12 +16,10 @@ I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, 
 Data science & data visualization projects as well fun side projects.
 Some cool examples: 
 
-<a href="https://github.com/yourusername/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=project-name&theme=dracula" />
+<a href="https://github.com/laurazecca01/personalised-pokemon-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=personalised-pokemon-game&theme=dracula" />
 </a>
-<a href="https://github.com/yourusername/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=dracula" />
-</a>
+
 
 
 ###  💻 Tech Stack
