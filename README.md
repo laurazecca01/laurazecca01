@@ -14,11 +14,18 @@ I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, 
 ### On my Github you'll find:
 
 Data science & data visualization projects as well fun side projects.
-Some cool examples: 
+Some examples to give you an idea: 
 
-<a href="https://github.com/laurazecca01/personalised-pokemon-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=personalised-pokemon-game&theme=dracula" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/laurazecca01/traffic-accidents-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=traffic-accidents-analysis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400" />
+  </a>
+  <a href="https://github.com/laurazecca01/text-analytics-skincare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=text-analytics-skincare&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400" />
+  </a>
+</div>
+
 
 
 
