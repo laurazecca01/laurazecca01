@@ -26,8 +26,6 @@ Some examples to give you an idea:
 </div>
 
 
-
-
 ###  💻 Tech Stack
 
 - Data & Analytics: Python, R, SQL
