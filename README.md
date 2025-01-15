@@ -9,7 +9,7 @@ I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, 
 - Since turning 18, I’ve had the opportunity to work and study across Europe (London, Paris, Berlin, and Luxembourg).
 - My most recent role was as a Founder's Associate at JOY_, working on digital corporate gifting solutions as a fonder's associate.
 - I previously worked at Deloitte, Amazon Transportation Services, Cavalry Ventures (VC), and Patronus Group (health tech startup).
-- I recently decided to take a quick break to go solo hiking in Nepal and stay with my family for a few months after living abroad for 5 years.
+- I recently decided to take a short break to go solo hiking in Nepal and stay with my family for a few months after living abroad for 5 years.
 
 ### On my Github you'll find:
 
