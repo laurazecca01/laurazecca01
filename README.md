@@ -18,10 +18,10 @@ Some examples to give you an idea:
 
 <div align="center">
   <a href="https://github.com/laurazecca01/traffic-accidents-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=traffic-accidents-analysis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=traffic-accidents-analysis&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=false" width="400" />
   </a>
   <a href="https://github.com/laurazecca01/text-analytics-skincare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=text-analytics-skincare&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=text-analytics-skincare&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=false" width="400" />
   </a>
 </div>
 
