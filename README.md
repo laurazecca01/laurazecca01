@@ -13,9 +13,16 @@ I'm a Data & Product enthusiast with a passion for analytics, entrepreneurship, 
 
 ### On my Github you'll find:
 
-- Data science and visualization projects
-- Statistical analysis and predictive modeling
-- Fun side projects :)
+Data science & data visualization projects as well fun side projects.
+Some cool examples: 
+
+<a href="https://github.com/yourusername/project-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laurazecca01&repo=project-name&theme=dracula" />
+</a>
+<a href="https://github.com/yourusername/another-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=dracula" />
+</a>
+
 
 ###  💻 Tech Stack
 
